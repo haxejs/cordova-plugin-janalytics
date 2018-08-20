@@ -95,6 +95,6 @@
 
         <lib-file src="src/android/libs/janalytics-android-1.2.1.jar" />
 
-        <source-file src="src/android/JAnalyticsPlugin.java" target-dir="app/src/main/java/cn/jiguang/cordova/analytics" />
+        <source-file src="src/android/JAnalyticsPlugin.java" target-dir="src/cn/jiguang/cordova/analytics" />
     </platform>
 </plugin>
